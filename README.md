@@ -1,4 +1,4 @@
-&#8627;# Learning ML
+# Learning ML
 
 This repo contains:
 - C++ Implementations of ML algorithms
